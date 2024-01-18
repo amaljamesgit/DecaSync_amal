@@ -17,56 +17,37 @@ const Overview = () => {
           <div className="col-12 col-lg-5">
             <div className="tp-overview__content sticky-item">
               <h2 className="fw-7 text-secondary title-anim mb-30 mt-8">
-                How Can We help you!
+                Explore the Power Of Decasync!
               </h2>
               <p className="mt-8 cur-lg">
-                Our custom software design and development teams can design,
-                build, test, and deliver a product that fits both your vision
-                and market demand. With our support, you will find customers,
-                build income and attract new investors.
+                Our Dedicated Team Specialize In Crafting Custom Software 
+                Solutions That Synchronize Seamlessly With Your Vision And 
+                Market Needs.From Conceptualization To Delivery,We Empower
+                You To Attract Customers,Generate Revenue,And Captivate Investors.
               </p>
               <div className="mt-40">
                 <Link href="services" className="btn-line text-uppercase">
-                  SEE WHAT WE DO
+                  DISCOVER OUR EXPERTISE
                 </Link>
               </div>
             </div>
           </div>
           <div className="col-12 col-lg-7 col-xxl-6 offset-xxl-1">
             <div className="tp-overview__items sticky-item">
-              <div className="tp-overview-single appear-down">
+            <div className="tp-overview-single appear-down">
                 <div className="thumb">
-                  <Image src={one} alt="Image" />
+                  <Image src={four} alt="Image" />
                 </div>
                 <div className="wrapper">
                   <div className="content">
                     <h4 className="mt-8 mb-12 fw-6 text-secondary">
-                      <Link href="service-single">Artificial Intelligence</Link>
+                      <Link href="service-single">
+                        Web Application Development
+                      </Link>
                     </h4>
                     <p className="text-tertiary">
-                      Lorem ipsum dolor sit amet consectetur.
-                    </p>
-                  </div>
-                  <div className="cta">
-                    <Link href="service-single">
-                      <span className="material-symbols-outlined">
-                        call_made
-                      </span>
-                    </Link>
-                  </div>
-                </div>
-              </div>
-              <div className="tp-overview-single appear-down">
-                <div className="thumb">
-                  <Image src={two} alt="Image" />
-                </div>
-                <div className="wrapper">
-                  <div className="content">
-                    <h4 className="mt-8 mb-12 fw-6 text-secondary">
-                      <Link href="service-single">Product Design</Link>
-                    </h4>
-                    <p className="text-tertiary">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Elevate Your Online Presence With Cutting-Edge
+                      Web Application Development Tailored For Your Bussiness.
                     </p>
                   </div>
                   <div className="cta">
@@ -90,7 +71,8 @@ const Overview = () => {
                       </Link>
                     </h4>
                     <p className="text-tertiary">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Redefine User Experiences With Innovative 
+                      Mobile Application Development To Stay Ahead In The Digital Landscape
                     </p>
                   </div>
                   <div className="cta">
@@ -104,17 +86,42 @@ const Overview = () => {
               </div>
               <div className="tp-overview-single appear-down">
                 <div className="thumb">
-                  <Image src={four} alt="Image" />
+                  <Image src={two} alt="Image" />
                 </div>
                 <div className="wrapper">
                   <div className="content">
                     <h4 className="mt-8 mb-12 fw-6 text-secondary">
-                      <Link href="service-single">
-                        Web Application Development
-                      </Link>
+                      <Link href="service-single">Product Design</Link>
                     </h4>
                     <p className="text-tertiary">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Elevate Your Products With DecaSync&apos;s Innovative Design
+                       Approach.From Conceptualization To Realization,We Sync 
+                       Aesthetics With Functionality,Creating Products
+                       That Stand Out In The Market.
+                    </p>
+                  </div>
+                  <div className="cta">
+                    <Link href="service-single">
+                      <span className="material-symbols-outlined">
+                        call_made
+                      </span>
+                    </Link>
+                  </div>
+                </div>
+              </div>
+              <div className="tp-overview-single appear-down">
+                <div className="thumb">
+                  <Image src={one} alt="Image" />
+                </div>
+                <div className="wrapper">
+                  <div className="content">
+                    <h4 className="mt-8 mb-12 fw-6 text-secondary">
+                      <Link href="service-single">Artificial Intelligence</Link>
+                    </h4>
+                    <p className="text-tertiary">
+                      Unlock The Potential Of Artificial Intelligence With DecaSync.
+                      Our AI Solutions Are Meticulously Crafted To Transform Data 
+                      Into Actionable Insights,Driving Innovation And Efficiency.
                     </p>
                   </div>
                   <div className="cta">
@@ -136,7 +143,8 @@ const Overview = () => {
                       <Link href="service-single">Idea Evaluation</Link>
                     </h4>
                     <p className="text-tertiary">
-                      Lorem ipsum dolor sit amet consectetur.
+                      Dive Into Idea Evaluation And Witness The
+                     Transformation Of Your Concepts Into Revolutionary Solutions.
                     </p>
                   </div>
                   <div className="cta">

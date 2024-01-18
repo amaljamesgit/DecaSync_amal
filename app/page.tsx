@@ -17,10 +17,10 @@ const page = () => {
       <main>
         <Banner />
         <Overview />
-        <Story />
+        {/* <Story /> */}
         <Testimonial />
-        <ServiceIntro />
-        <LatestPost />
+        {/* <ServiceIntro /> */}
+        {/* <LatestPost /> */}
       </main>
       <Footer />
       <InitCustomCursor />

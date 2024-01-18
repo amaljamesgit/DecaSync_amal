@@ -40,7 +40,7 @@ const Testimonial = () => {
               }
             >
               <h2 className="fw-7 text-secondary mt-8 title-anim">
-                What our clients say about us
+                Innovation In Sync:Client Testimonials
               </h2>
               <div className="tp-testimonial-slider-wrap mt-60">
                 <Swiper
@@ -81,9 +81,9 @@ const Testimonial = () => {
                           <Image src={one} alt="Image" />
                         </div>
                         <div className="content">
-                          <h5 className="fw-5 text-secondary mt-8">Amilino</h5>
+                          <h5 className="fw-5 text-secondary mt-8">Mathew Peter</h5>
                           <p className="text-xs text-tertiary mb-12">
-                            CTO & Co-Founder, Granular AI
+                            CEO At BT Grey
                           </p>
                           <button className="review">
                             <i className="fa-solid fa-star"></i>
@@ -96,12 +96,15 @@ const Testimonial = () => {
                       </div>
                       <blockquote className="text-xl cur-lg mt-40">
                         <q>
-                          Lorem ipsum dolor sit amet consectetur. Elementum nec
-                          auctor diam tincidunt nisl malesuada pharetra pulvinar
-                          ac. Tellus gravida vestibulum nullam rutrum arcu
-                          risus. Tellus nulla volutpat mollis at egestas at to
-                          milo congue condimentum, mollis at egestas at to milo
-                          congue condimentum.
+                         &quot;I Came To DecaSync Because Of Their Reputation In The
+                          Software Development Space.When We Expanded The Project 
+                          To Incorporate Blockchain Not Only Did They Not Flinch,
+                          They Got More Enthused.They Have Been Stellar At Every 
+                          Step Of The Way Working Towards Solutions That Worked 
+                          Straight To The Heart Of The Idea On A Micro And Macro Sense.
+                          I Have Already Recommended Them Many Times And I Will Continue To Do So.
+                          The Members Of DecaSync Have Always Promtly Returned My Calls Or
+                           Emails Irrespective Of The Time.I Have Found Them To Be Consistently Available And Committed To Addressing My Needs. &quot;
                         </q>
                       </blockquote>
                     </div>
@@ -113,9 +116,9 @@ const Testimonial = () => {
                           <Image src={two} alt="Image" />
                         </div>
                         <div className="content">
-                          <h5 className="fw-5 text-secondary mt-8">Amilino</h5>
+                          <h5 className="fw-5 text-secondary mt-8">Mathew Peter</h5>
                           <p className="text-xs text-tertiary mb-12">
-                            CTO & Co-Founder, Granular AI
+                            CEO At BT Grey
                           </p>
                           <button className="review">
                             <i className="fa-solid fa-star"></i>
@@ -127,14 +130,15 @@ const Testimonial = () => {
                         </div>
                       </div>
                       <blockquote className="text-xl cur-lg mt-40">
-                        <q>
-                          Lorem ipsum dolor sit amet consectetur. Elementum nec
-                          auctor diam tincidunt nisl malesuada pharetra pulvinar
-                          ac. Tellus gravida vestibulum nullam rutrum arcu
-                          risus. Tellus nulla volutpat mollis at egestas at to
-                          milo congue condimentum, mollis at egestas at to milo
-                          congue condimentum.
-                        </q>
+                        &quot;I Came To DecaSync Because Of Their Reputation In The
+                          Software Development Space.When We Expanded The Project 
+                          To Incorporate Blockchain Not Only Did They Not Flinch,
+                          They Got More Enthused.They Have Been Stellar At Every 
+                          Step Of The Way Working Towards Solutions That Worked 
+                          Straight To The Heart Of The Idea On A Micro And Macro Sense.
+                          I Have Already Recommended Them Many Times And I Will Continue To Do So.
+                          The Members Of DecaSync Have Always Promtly Returned My Calls Or
+                           Emails Irrespective Of The Time.I Have Found Them To Be Consistently Available And Committed To Addressing My Needs. &quot;
                       </blockquote>
                     </div>
                   </SwiperSlide>
@@ -145,9 +149,9 @@ const Testimonial = () => {
                           <Image src={three} alt="Image" />
                         </div>
                         <div className="content">
-                          <h5 className="fw-5 text-secondary mt-8">Amilino</h5>
+                          <h5 className="fw-5 text-secondary mt-8">Mathew Peter</h5>
                           <p className="text-xs text-tertiary mb-12">
-                            CTO & Co-Founder, Granular AI
+                            CEO At BT Grey
                           </p>
                           <button className="review">
                             <i className="fa-solid fa-star"></i>
@@ -159,14 +163,15 @@ const Testimonial = () => {
                         </div>
                       </div>
                       <blockquote className="text-xl cur-lg mt-40">
-                        <q>
-                          Lorem ipsum dolor sit amet consectetur. Elementum nec
-                          auctor diam tincidunt nisl malesuada pharetra pulvinar
-                          ac. Tellus gravida vestibulum nullam rutrum arcu
-                          risus. Tellus nulla volutpat mollis at egestas at to
-                          milo congue condimentum, mollis at egestas at to milo
-                          congue condimentum.
-                        </q>
+                        &quot;I Came To DecaSync Because Of Their Reputation In The
+                          Software Development Space.When We Expanded The Project 
+                          To Incorporate Blockchain Not Only Did They Not Flinch,
+                          They Got More Enthused.They Have Been Stellar At Every 
+                          Step Of The Way Working Towards Solutions That Worked 
+                          Straight To The Heart Of The Idea On A Micro And Macro Sense.
+                          I Have Already Recommended Them Many Times And I Will Continue To Do So.
+                          The Members Of DecaSync Have Always Promtly Returned My Calls Or
+                           Emails Irrespective Of The Time.I Have Found Them To Be Consistently Available And Committed To Addressing My Needs. &quot;
                       </blockquote>
                     </div>
                   </SwiperSlide>
@@ -177,9 +182,9 @@ const Testimonial = () => {
                           <Image src={four} alt="Image" />
                         </div>
                         <div className="content">
-                          <h5 className="fw-5 text-secondary mt-8">Amilino</h5>
+                          <h5 className="fw-5 text-secondary mt-8">Mathew Peter</h5>
                           <p className="text-xs text-tertiary mb-12">
-                            CTO & Co-Founder, Granular AI
+                            CEO At BT Grey
                           </p>
                           <button className="review">
                             <i className="fa-solid fa-star"></i>
@@ -191,14 +196,15 @@ const Testimonial = () => {
                         </div>
                       </div>
                       <blockquote className="text-xl cur-lg mt-40">
-                        <q>
-                          Lorem ipsum dolor sit amet consectetur. Elementum nec
-                          auctor diam tincidunt nisl malesuada pharetra pulvinar
-                          ac. Tellus gravida vestibulum nullam rutrum arcu
-                          risus. Tellus nulla volutpat mollis at egestas at to
-                          milo congue condimentum, mollis at egestas at to milo
-                          congue condimentum.
-                        </q>
+                        &quot;I Came To DecaSync Because Of Their Reputation In The
+                          Software Development Space.When We Expanded The Project 
+                          To Incorporate Blockchain Not Only Did They Not Flinch,
+                          They Got More Enthused.They Have Been Stellar At Every 
+                          Step Of The Way Working Towards Solutions That Worked 
+                          Straight To The Heart Of The Idea On A Micro And Macro Sense.
+                          I Have Already Recommended Them Many Times And I Will Continue To Do So.
+                          The Members Of DecaSync Have Always Promtly Returned My Calls Or
+                           Emails Irrespective Of The Time.I Have Found Them To Be Consistently Available And Committed To Addressing My Needs. &quot;
                       </blockquote>
                     </div>
                   </SwiperSlide>
@@ -209,9 +215,9 @@ const Testimonial = () => {
                           <Image src={five} alt="Image" />
                         </div>
                         <div className="content">
-                          <h5 className="fw-5 text-secondary mt-8">Amilino</h5>
+                          <h5 className="fw-5 text-secondary mt-8">Mathew Peter</h5>
                           <p className="text-xs text-tertiary mb-12">
-                            CTO & Co-Founder, Granular AI
+                            CEO At BT Grey
                           </p>
                           <button className="review">
                             <i className="fa-solid fa-star"></i>
@@ -223,14 +229,15 @@ const Testimonial = () => {
                         </div>
                       </div>
                       <blockquote className="text-xl cur-lg mt-40">
-                        <q>
-                          Lorem ipsum dolor sit amet consectetur. Elementum nec
-                          auctor diam tincidunt nisl malesuada pharetra pulvinar
-                          ac. Tellus gravida vestibulum nullam rutrum arcu
-                          risus. Tellus nulla volutpat mollis at egestas at to
-                          milo congue condimentum, mollis at egestas at to milo
-                          congue condimentum.
-                        </q>
+                        &quot;I Came To DecaSync Because Of Their Reputation In The
+                          Software Development Space.When We Expanded The Project 
+                          To Incorporate Blockchain Not Only Did They Not Flinch,
+                          They Got More Enthused.They Have Been Stellar At Every 
+                          Step Of The Way Working Towards Solutions That Worked 
+                          Straight To The Heart Of The Idea On A Micro And Macro Sense.
+                          I Have Already Recommended Them Many Times And I Will Continue To Do So.
+                          The Members Of DecaSync Have Always Promtly Returned My Calls Or
+                           Emails Irrespective Of The Time.I Have Found Them To Be Consistently Available And Committed To Addressing My Needs. &quot;
                       </blockquote>
                     </div>
                   </SwiperSlide>

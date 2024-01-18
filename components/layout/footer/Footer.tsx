@@ -34,12 +34,11 @@ const Footer = () => {
   return (
     <footer className="footer position-relative overflow-x-clip">
       <div className="container">
-        <div className="row vertical-column-gap-lg">
+        {/* <div className="row vertical-column-gap-lg">
           <div className="col-12 col-lg-6 col-xxl-5">
             <div className="pt-120">
               <span className="text-xl d-block mt-8 text-white text-capitalize fm fw-5 cur-lg">
-                Let our specialists solve the problems and tackle the challenges
-                that hold you from conquering the world.
+                Empower Your Success:Let Our Specialists Overcome Challenges And Help You Conquer The World.
               </span>
               <div className="mt-60 foot-group">
                 <div className="anime">
@@ -72,7 +71,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="row vertical-column-gap-lg pt-120">
           <div className="col-12 col-lg-6">
             <div>

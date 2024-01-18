@@ -23,8 +23,8 @@ const Banner = () => {
             <div className="col-12 col-md-9 col-lg-9">
               <div className="tp-banner__content">
                 <h1 className="mt-8 text-white fw-7 title-anim">
-                  Make Your Awesome <Image src={hand} alt="Image" /> Digital{" "}
-                  <span className="text-quaternary">Product</span>
+                  Syncing Innovations <Image src={hand} alt="Image" /> with{" "}
+                  <span className="text-quaternary">DecaSync</span>
                 </h1>
               </div>
             </div>
@@ -39,7 +39,7 @@ const Banner = () => {
               </div>
             </div>
           </div>
-          <div className="row vertical-column-gap mt-60">
+          {/* <div className="row vertical-column-gap mt-60">
             <div className="col-12 col-lg-4 col-xxl-3 order-last order-lg-first">
               <div className="tp-banner__users h-100">
                 <div className="tp-banner__avatar mb-24">
@@ -74,7 +74,7 @@ const Banner = () => {
                 </button>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
         <ul className="social">
           <li>

@@ -83,13 +83,14 @@ const Header = () => {
               <div className="col-12">
                 <nav className="navbar p-0">
                   <div className="navbar__logo">
-                    <Link href="/" aria-label="go to home" className="logo-img">
+                    {/* <Link href="/" aria-label="go to home" className="logo-img">
                       <Image src={logoSrc} alt="Image" priority />
-                    </Link>
+                    </Link> */}
                   </div>
                   <div className="navbar__options">
                     <Link href="contact-us" className="d-none d-sm-flex">
-                      Let&apos;s Talk
+                      {/* Let&apos;s Talk */}
+                      Innovation Intact
                     </Link>
                     <button
                       className="open-offcanvas-nav"

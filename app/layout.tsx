@@ -35,8 +35,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Itify | Software Development & It Solutions React NextJs Template",
-  description: "Software Development & IT Solutions React NextJs Template",
+  title: "Decasync | Where Innovations Sync",
+  description: " Where Innovations Sync",
   keywords: [
     "Software",
     "IT",
